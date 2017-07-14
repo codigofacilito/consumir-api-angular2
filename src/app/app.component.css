@@ -1,0 +1,15 @@
+.container{
+	width:60%;
+	margin:0 auto;
+	min-width: 600px;
+}
+h1{
+	display: inline-block;
+	width: 80%;
+	margin-right: -4px;
+}
+.actions{
+	width: 20%;
+	display: inline-block;
+	text-align: right;
+}

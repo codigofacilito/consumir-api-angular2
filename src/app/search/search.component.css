@@ -1,0 +1,11 @@
+md-input{
+	width:70%;
+	display: inline-block;
+	margin-right: 5%;
+}
+
+button{
+	width:25%;
+	display: inline-block;
+	margin-right: -4px;
+}
